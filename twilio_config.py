@@ -1,4 +1,4 @@
-TWILIO_ACCOUNT_SID = '###########################'
-TWILIO_AUTH_TOKEN ='#########################'
-PHONE_NUMBER = '+##############'
-API_KEY_WAPI= '#################################'
+TWILIO_ACCOUNT_SID = 'AC66ed7260b5c837ce0c43b628a7eb4e5f'
+TWILIO_AUTH_TOKEN ='93f296ad3cca24effd1ff6951f7ae31d'
+PHONE_NUMBER = '+14302457494'
+API_KEY_WAPI= '6d888002a85648d8824142444232806'
